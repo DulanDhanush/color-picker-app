@@ -2,7 +2,7 @@
 
 A high-fidelity, modern React color picker designed with a focus on **Glassmorphism**, **SaaS-style aesthetics**, and smooth user experience.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
