@@ -30,7 +30,7 @@ A high-fidelity, modern React color picker designed with a focus on **Glassmorph
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/DulanDhanush/color-picker-app.git](https://github.com/DulanDhanush/color-picker-app.git)
+    git clone https://github.com/DulanDhanush/color-picker-app.git
 
     ```
 
